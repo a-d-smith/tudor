@@ -1,3 +1,3 @@
 # Tudor Players
 
-This is the website for the Tudor Players- Sheffield.
+This is the website for the Tudor Players - Sheffield.
