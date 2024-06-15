@@ -37,10 +37,10 @@ jobs:
           node-version: '20.x'
 
       - name: Build REACT app
-        - run: |
-            cd tudor
-            npm install
-            npm run build
+        run: |
+          cd tudor
+          npm install
+          npm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
